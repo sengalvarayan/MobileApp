@@ -1,0 +1,10 @@
+.venv/
+.FlutterApp/.idea
+.FlutterApp/android
+.FlutterApp/build
+.FlutterApp/ios
+.FlutterApp/linux
+.FlutterApp/windows
+.FlutterApp/macos
+.FlutterApp/test
+.FlutterApp/web
